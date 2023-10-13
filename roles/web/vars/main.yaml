@@ -1,0 +1,5 @@
+CATALOGUE_HOST: catalogue.saikirandevops.cloud
+USER_HOST: user.saikirandevops.cloud
+SHIPPING_HOST: shipping.saikirandevops.cloud
+CART_HOST: cart.saikirandevops.cloud
+PAYMENT_HOST: payment.saikirandevops.cloud
